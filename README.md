@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### I am a Developer and a Teacher
 
 - 🔭 I’m currently working on Mobile Applications
 - 🌱 I’m currently learning React
