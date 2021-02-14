@@ -6,6 +6,5 @@
 - 👯 I’m looking to collaborate with other React Native Developers 
 - 💬 Ask me about my projects
 - 📫 Skype: live:sanimridha
-- 😄 Pronouns: sa-ni
 - ⚡ Fun fact: i love singing🎙
 
