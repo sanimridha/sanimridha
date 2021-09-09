@@ -54,6 +54,7 @@
 <p>
   &emsp; <a href="#"><img alt="react" src="https://img.shields.io/badge/react-0052CC?style=for-the-badge&logo=react&logoColor=61DBFB"></a>
   &emsp; <a href="#"><img alt="reactnative" src="https://img.shields.io/badge/reactnative-0052CC?style=for-the-badge&logo=react&logoColor=61DBFB"></a>
+  &emsp; <a href="#"><img alt="redux" src="https://img.shields.io/badge/redux-0052CC?style=for-the-badge&logo=redux&logoColor=61DBFB"></a>
   
 </p>
 
@@ -158,7 +159,7 @@ Sanimridha.skills.push(...languages, ...frameworks, ...Cloud, ...Tools);
   <a href="https://www.linkedin.com/in/sanimridha">
     <img  alt="Linkedin" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>
   &nbsp&nbsp&nbsp&nbsp
-  <a href="https://github.com/dev-akshat">
+  <a href="https://github.com/sanimridha">
     <img alt="GitHub" width="22px" src="https://image.flaticon.com/icons/png/512/25/25657.png"/>
   </a>
   &nbsp&nbsp&nbsp&nbsp
