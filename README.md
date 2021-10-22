@@ -34,7 +34,7 @@
  
 <p>
   &emsp; <a href="#"><img alt="android" src="https://img.shields.io/badge/android-0052CC?style=for-the-badge&logo=android&logoColor=30D880"></a>
-  &emsp; <a href="#"><img alt="ios" src="https://img.shields.io/badge/ios-0052CC?style=for-the-badge&logo=ios&logoColor=skyblue"></a>
+  &emsp; <a href="#"><img alt="ios" src="https://img.shields.io/badge/ios-E5E4E2?style=for-the-badge&logo=ios&logoColor=skyblue"></a>
   &emsp; <a href="#"><img alt="macOS" src="https://img.shields.io/badge/macOS-0052CC?style=for-the-badge&logo=macOS&logoColor=black"></a>
   &emsp; <a href="#"><img alt="windows" src="https://img.shields.io/badge/windows-0052CC?style=for-the-badge&logo=windows&logoColor=blue"></a>
   
