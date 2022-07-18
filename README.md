@@ -97,12 +97,6 @@
 
 
 
-<hr/>
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=sanimridha&theme=gruvbox&hide_border=true&area=true)
-
-<hr/>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/astro_cat.webp" width="50">
   Sani as a code... 
